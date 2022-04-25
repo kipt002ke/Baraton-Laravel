@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" target="_blank">
-    <img src="https://github.com/KirinyetBrian/Baraton-Laravel/blob/main/Baraton-Laravel/public/images/image.png" width="400">
+    <img src="https://github.com/KirinyetBrian/Baraton-Laravel/blob/main/Baraton-Laravel/public/images/logo3.png" width="400">
     </a>
 </p>
 
