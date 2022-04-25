@@ -26,4 +26,7 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+
+
 Route::resource('Upload', UploadController::class);
+Route::get('/selecteditem/{Room_id}',[UploadController::class,'viewSelectedItem']);

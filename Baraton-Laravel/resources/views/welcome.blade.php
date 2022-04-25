@@ -168,7 +168,7 @@
 <!-- //Modal1 -->
 <div id="availability-agileits">
 <div class="col-md-12 book-form-left-w3layouts">
-	<a href="admin/reservation.php"><h2>ROOM RESERVATION</h2></a>
+	<a href="#"><h2>ROOM RESERVATION</h2></a>
 </div>
 
 			<div class="clearfix"> </div>
@@ -324,7 +324,7 @@
 
 					<div class="tab4">
 
-					</div>
+					</div>subssss
 			</div>
 	</div>
 
@@ -393,7 +393,7 @@
                <div class="price-selet">
                 <h4>{{strtolower($AllProperty->Room_Type)}} in {{strtolower($AllProperty->location)}} </h4>
                    <h3><span>Ksh</span>{{number_format($AllProperty->cost)}} </h3>
-                   <a href="admin/reservation.php" >Book Now</a>
+                   <a href="/selecteditem/{{$AllProperty->id}}" >More</a>
                </div>
            </div>
        </div>

@@ -21,7 +21,7 @@ class UploadController extends Controller
        ->orderby('id','desc')
        ->select()
        ->get();
-\Log::info($display_properties);
+//\Log::info($display_properties);
 return view('welcome')
 ->with('display_properties',$display_properties);
     }
@@ -145,5 +145,20 @@ return view('welcome')
     public function destroy(Upload $upload)
     {
         //
+    }
+
+    public function viewSelectedItem($Room_id)
+    {
+$selected_item['data']=DB::table('uploads')
+->where ('id',$Room_id)
+->select()
+->limit(1)
+->get();
+
+
+// \Log::info($Room_id);
+// \Log::info($selected_item);
+return view('/selecteditem',compact('selected_item'))
+->with('selected_item',$selected_item);
     }
 }
