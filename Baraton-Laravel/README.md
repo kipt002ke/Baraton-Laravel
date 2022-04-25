@@ -4,7 +4,7 @@
     </a>
 </p>
 
-## ABOUT Baraton
+## ABOUT BARATON
 Baraton is a platform that students can use to  find accommodation around campus
 
 ## Libraries,Frameworks  used && 3rd party API
