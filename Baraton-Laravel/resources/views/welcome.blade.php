@@ -65,7 +65,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php">BARA <span>TON</span><p class="logo_w3l_agile_caption">The Best Hostels</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php">   BARA- <span>TON</span><p class="logo_w3l_agile_caption">The Best Hostels' Hunter</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -73,8 +73,8 @@
 						<ul class="nav navbar-nav menu__list">
 							<li class="menu__item menu__item--current"><a href="" class="menu__link">Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>
-							<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>
-							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
+							
+					
 							<li ><a href="/list" class="">List</a></li>
 							<li class="menu__item"><a href="#rooms" class="menu__link scroll">Rooms</a></li>
 							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>
@@ -98,7 +98,7 @@
 
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>BARATON</h4>
+								<h4>BARA-TON</h4>
 									<h3>We have what you are looking for</h3>
 										<p>Welcome to our hostels</p>
 									<div class="agileits_w3layouts_more menu__item">
@@ -112,7 +112,7 @@
 						<div class="w3layouts-banner-top w3layouts-banner-top1">
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>BARATON</h4>
+								<h4>BARA-TON</h4>
 									<h3>Stay with friends & families</h3>
 										<p>Come & enjoy precious moment with us</p>
 									<div class="agileits_w3layouts_more menu__item">
@@ -126,9 +126,9 @@
 						<div class="w3layouts-banner-top w3layouts-banner-top2">
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>BARATON</h4>
-								<h3>want luxurious houses?</h3>
-										<p>Get one today</p>
+								<h4>BARA-TON</h4>
+								<h3>Looking for hostels?</h3>
+										<p>Find one today</p>
 									<div class="agileits_w3layouts_more menu__item">
 											<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
 										</div>
@@ -159,8 +159,9 @@
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
 										<h4>BARA  <span>TON</span></h4>
 										<img src="images/1.jpg" alt=" " class="img-responsive">
-										<h5>We know what you love</h5>
-										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
+										<h5>We present what you want</h5>
+										<p>At BARA-TON Hostels, we help you find a house to rent by connecting you, the prospective tenant, to house owners, through a varied range of listings designed to meet 
+                    your wants, needs and budget.</p>
 									</div>
 								</div>
 							</div>
@@ -168,7 +169,7 @@
 <!-- //Modal1 -->
 <div id="availability-agileits">
 <div class="col-md-12 book-form-left-w3layouts">
-	<a href="#"><h2>ROOM RESERVATION</h2></a>
+	<a href="#"><h2>RESIDENCE SEARCH MADE BETTER</h2></a>
 </div>
 
 			<div class="clearfix"> </div>
@@ -177,7 +178,7 @@
 	<div class="banner-bottom">
 		<div class="container">
 			<div class="agileits_banner_bottom">
-				<h3><span>Experience a good stay, enjoy fantastic offers</span> Find our friendly welcoming reception</h3>
+				<h3><span>Experience a good search,find convenient offers</span> Find what you want</h3>
 			</div>
 			<div class="w3ls_banner_bottom_grids">
 				<ul class="cbp-ig-grid">
@@ -185,28 +186,28 @@
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_road"></span>
 							<h4 class="cbp-ig-title">1,2,3 BEDROOMS</h4>
-							<span class="cbp-ig-category">BARATON</span>
+							<span class="cbp-ig-category">BARA-TON</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_cube"></span>
-							<h4 class="cbp-ig-title">AMAZING BALCONY</h4>
-							<span class="cbp-ig-category">BARATON</span>
+							<h4 class="cbp-ig-title">CONVENIENT BUDGET</h4>
+							<span class="cbp-ig-category">BARA-TON</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_users"></span>
-							<h4 class="cbp-ig-title">STUDENTS CAFE</h4>
-							<span class="cbp-ig-category">BARATON</span>
+							<h4 class="cbp-ig-title">SUITABLE LOCATION</h4>
+							<span class="cbp-ig-category">BARA-TON</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_ticket"></span>
-							<h4 class="cbp-ig-title">WIFI COVERAGE</h4>
-							<span class="cbp-ig-category">BARATON</span>
+							<h4 class="cbp-ig-title">EASY ACCESS</h4>
+							<span class="cbp-ig-category">BARA-TON</span>
 						</div>
 					</li>
 				</ul>
@@ -218,8 +219,8 @@
  	<div class="about-wthree" id="about">
 		  <div class="container">
 				   <div class="ab-w3l-spa">
-                            <h3 class="title-w3-agileits title-black-wthree">About Our BARATON</h3>
-						   <p class="about-para-w3ls">We have the best students accommodation around</p>
+                            <h3 class="title-w3-agileits title-black-wthree">About Us</h3>
+						   <p class="about-para-w3ls">We help students find places of residence easily</p>
 						   <img src="images/about.jpg" class="img-responsive" alt="Hair Salon">
 										<div class="w3l-slider-img">
 											<img src="images/a1.jpg" class="img-responsive" alt="Hair Salon">
@@ -462,7 +463,7 @@
 			<h4>Connect With Us</h4>
 			<p class="contact-agile1"><strong>Phone :</strong>+254 728 481648</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">INFO@BARATON.COM</a></p>
-			<p class="contact-agile1"><strong>Address :</strong> Baraton Road, Batticaloa,Eldoret</p>
+			<p class="contact-agile1"><strong>Address :</strong> Baraton centre,Nandi</p>
 
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
@@ -479,7 +480,7 @@
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© <?php echo date('Y') ?> BARATON . All Rights Reserved | Design by <a href="index.php">Emmanuel Kiptoo</a> </p>
+		        <p>© <?php echo date('Y') ?> BARA-TON . All Rights Reserved | Design by <a href="index.php">Kelvin Agoi and Emmanuel Kiptoo</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
