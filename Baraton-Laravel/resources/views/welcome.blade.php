@@ -198,7 +198,7 @@
 					</li>
 					<li>
 						<div class="w3_grid_effect">
-							<span class="cbp-ig-icon w3_users"></span>
+						<span class="cbp-ig-icon w3_users"></span>
 							<h4 class="cbp-ig-title">SUITABLE LOCATION</h4>
 							<span class="cbp-ig-category">BARA-TON</span>
 						</div>
@@ -243,11 +243,11 @@
 			 <div class="col-md-6 advantage-grid left-w3ls wow bounceInLeft" data-wow-delay="0.3s">
 			 	<div class="advantage-block ">
 					<i class="fa fa-credit-card" aria-hidden="true"></i>
-			 		<h4>Stay First, Pay After! </h4>
-			 		<p>We charge only when you are sure it is what you want.</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Decorated room, proper air conditioned</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Private balcony</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Security</p>
+			 		<h4>Look at it first ! Then Scout ! </h4>
+			 		<p>GUIDELINES.</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Look at the listings</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Contact the owner for location details</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Know the terms and agree</p>
 
 			 	</div>
 			 </div>
@@ -255,9 +255,9 @@
 			 	<div class="advantage-block">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 			 		<h4>24/7 Service</h4>
-			 		<p>We provide service all throughout the clock.You just need to be there</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>24 hours room service</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>24-hour Concierge service</p>
+			 		<p>We provide service all throughout the clock.</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Time Saving</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Reliable</p>
 			 	</div>
 			 </div>
 			<div class="clearfix"> </div>
