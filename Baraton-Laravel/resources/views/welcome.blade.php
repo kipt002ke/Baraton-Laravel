@@ -65,7 +65,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php">   BARA- <span>TON</span><p class="logo_w3l_agile_caption">The Best Hostels' Hunter</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php">   BARA-<span>TON</span><p class="logo_w3l_agile_caption">The Best Hostels' Hunter</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">

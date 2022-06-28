@@ -65,7 +65,7 @@
     </div>
 
     <div class="copy">
-        <p>© <?php echo date('Y') ?> BARATON . All Rights Reserved | Design by <a href="index.php">Emmanuel Kiptoo</a> </p>
+        <p>© <?php echo date('Y') ?> BARATON . All Rights Reserved | Design by <a href="index.php">Emmanuel Kiptoo And Kelvin Agoi</a> </p>
     </div>
 </body>
 
